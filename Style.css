@@ -1,0 +1,18 @@
+*{
+  align-items: left;
+  position: relative;
+  font-size: 30px;
+}
+h1{
+  text-align: center;
+}
+.content { margin-top:54px; }
+.header {padding:15px; position:fixed; top:0; width:100%; z-index:9999; }
+.right-title { width:150px; text-align:right; float:right; color:#FFF;  }
+.quiz-body { margin-top:15px; padding-bottom:50px; }
+.option-block-container { margin-top:20px; max-width:420px; left: 25cm; }
+.option-block { border-radius: 8px;padding:10px; background:rgb(128, 196, 255); border:1px solid #98fd23; margin-bottom:10px; cursor:pointer; }
+.result-question { font-weight:bold; }
+#answer{
+  color: green;
+}

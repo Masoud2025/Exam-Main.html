@@ -27,3 +27,16 @@ A simple and interactive **Exam Website** built using **HTML, CSS, and JavaScrip
 ---
 
 ## 📂 Project Structure  
+- `index.html` – Main structure of the exam page  
+- `styles.css` – Custom styles for the layout  
+- `script.js` – Handles question logic and interactions  
+- `questions.json` – Stores the quiz questions and answers  
+
+---
+
+## 🎯 How to Use  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/your-username/exam-website.git
+   cd exam-website
+
